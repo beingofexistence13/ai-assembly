@@ -20,7 +20,68 @@ To get started with AI-Assembly, clone the repository and install the necessary 
 
 ## 🚧 Current Work
 
-_This space is reserved for you to add what you're currently working on._
+| Rank | AI Model                 | Company                                    |
+|------|--------------------------|--------------------------------------------|
+| 1    | GPT-3                    | OpenAI                                     |
+| 2    | LaMDA                    | Google AI                                  |
+| 3    | Megatron-Turing NLG      | Google AI                                  |
+| 4    | Jurassic-1 Jumbo         | Google AI                                  |
+| 5    | Wu Dao 2.0               | Beijing Academy of Artificial Intelligence |
+| 6    | Bloom                    | Hugging Face                               |
+| 7    | Wu Dao 1.0               | Beijing Academy of Artificial Intelligence |
+| 8    | Megatron-Turing NLG 530B | Google AI                                  |
+| 9    | GPT-Neo                  | EleutherAI                                 |
+| 10   | Switch Transformers      | Google AI                                  |
+| 11   | Bard                     | Google AI                                  |
+| 12   | Wav2Vec 2.0              | Facebook AI                                |
+| 13   | Jurassic-1 Jumbo         | Google AI                                  |
+| 14   | Wu Dao 2.0               | Beijing Academy of Artificial Intelligence |
+| 15   | Bloom                    | Hugging Face                               |
+| 16   | Megatron-Turing NLG 530B | Google AI                                  |
+| 17   | GPT-Neo                  | EleutherAI                                 |
+| 18   | Switch Transformers      | Google AI                                  |
+| 19   | Bard                     | Google AI                                  |
+| 20   | Wav2Vec 2.0              | Facebook AI                                |
+| 21   | DALL-E 2                 | OpenAI                                     |
+| 22   | Imagen                   | Google AI                                  |
+| 23   | Parti                    | Google AI                                  |
+| 24   | Imagen Video             | Google AI                                  |
+| 25   | Imagen Text              | Google AI                                  |
+| 26   | Parti                    | Google AI                                  |
+| 27   | Imagen Video             | Google AI                                  |
+| 28   | Imagen Text              | Google AI                                  |
+| 29   | AlphaFold                | DeepMind                                   |
+| 30   | AlphaZero                | DeepMind                                   |
+| 31   | Gato                     | DeepMind                                   |
+| 32   | MuZero                   | DeepMind                                   |
+| 33   | DeepMind                 | DeepMind                                   |
+| 34   | AlphaFold                | DeepMind                                   |
+| 35   | AlphaZero                | DeepMind                                   |
+| 36   | Gato                     | DeepMind                                   |
+| 37   | MuZero                   | DeepMind                                   |
+| 38   | DeepMind                 | DeepMind                                   |
+| 39   | AlphaFold                | DeepMind                                   |
+| 40   | AlphaZero                | DeepMind                                   |
+| 41   | Gato                     | DeepMind                                   |
+| 42   | MuZero                   | DeepMind                                   |
+| 43   | DeepMind                 | DeepMind                                   |
+| 44   | AlphaFold                | DeepMind                                   |
+| 45   | AlphaZero                | DeepMind                                   |
+| 46   | Gato                     | DeepMind                                   |
+| 47   | MuZero                   | DeepMind                                   |
+| 48   | DeepMind                 | DeepMind                                   |
+| 49   | AlphaFold                | DeepMind                                   |
+| 50   | AlphaZero                | DeepMind                                   |
+| 51   | Gato                     | DeepMind                                   |
+| 52   | MuZero                   | DeepMind                                   |
+| 53   | DeepMind                 | DeepMind                                   |
+| 54   | AlphaFold                | DeepMind                                   |
+| 55   | AlphaZero                | DeepMind                                   |
+| 56   | Gato                     | DeepMind                                   |
+| 57   | MuZero                   | DeepMind                                   |
+| 58   | DeepMind                 | DeepMind                                   |
+| 59   | AlphaFold                | DeepMind                                   |
+| 60   | AlphaZero                | DeepMind                                   |
 
 ## 🗺️ Roadmap
 
